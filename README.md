@@ -11,6 +11,7 @@ The analysis for this project was used to convince investors that a bike-sharing
 -  Men account for most of these rides
 -  Subscriptions for males heavily inreases use, there is only a slight increase for females
 -  The start and end locations are close together suggesting people do not commute very far
+
 The images can be found here:
 [link to dashboard](https://public.tableau.com/profile/eileen7390#!/vizhome/Bikesharing_Challenge_16181909334830/ChallengeStoryboard?publish=yes)
 
